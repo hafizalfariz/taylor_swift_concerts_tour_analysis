@@ -50,7 +50,6 @@ Artist tour management and event organizers often lack data-driven insights into
 
 Below is a preview of the Tableau dashboard included in this repository:
 
-![Tableau Dashboard 1](png/dasboard_page1.png)
 ![Tableau Dashboard 2](png/dasboard_page2.png)
 ![Tableau Dashboard 3](png/dasboard_page3.png)
 
